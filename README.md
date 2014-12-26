@@ -15,3 +15,6 @@
 9. [JVM必备指南](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/jvm.md)
 10. [java-string-tutorial-and-examples-beginnersprogramming](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/java-string.md)
 11. [Developing Single Page Web Applications using Java 8, Spark, MongoDB, and AngularJS](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/Developing-Single-Page-Web-Applications.md)
+12. [C进阶指南（1)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c1.md)
+13. [C进阶指南（2)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c2.md)
+14. [C进阶指南（3)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c3.md)
