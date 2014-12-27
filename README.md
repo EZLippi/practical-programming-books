@@ -19,3 +19,5 @@
 12. [C进阶指南（1)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c1.md)
 13. [C进阶指南（2)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c2.md)
 14. [C进阶指南（3)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c3.md)
+15. [简明VIM练级攻略](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/vim.md)
+16. [每个Linux用户都应该知道的命令行技巧](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/use-linux.md)
