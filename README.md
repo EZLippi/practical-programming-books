@@ -9,6 +9,7 @@
 2. [sed教程](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/sed.md)
 3. [awk教程](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/awk.md)
 4. [8种Nosql数据库系统对比](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/nosql.md)
+5. [C语言全局变量那些事儿](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c-globle-variable.md)
 6. [十步完全理解SQL](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/sql.md)
 7. [学习gdb调试技巧](https://github.com/hellogcc/100-gdb-tips)
 8. [如何实现一个malloc](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/malloc.md)
