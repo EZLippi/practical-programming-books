@@ -21,3 +21,7 @@
 14. [C进阶指南（3)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c3.md)
 15. [简明VIM练级攻略](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/vim.md)
 16. [每个Linux用户都应该知道的命令行技巧](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/use-linux.md)
+17. [25 台服务器是怎样支撑 StackOverflow 的？](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/how-stackoverflow-works.md)
+18. [图片服务架构演进（孔凡勇）](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/picture-server.md)
+19. [最佳日志实践（王健）](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/logging.md)
+20. 
