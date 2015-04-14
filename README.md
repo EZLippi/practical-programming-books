@@ -24,4 +24,6 @@
 17. [25 台服务器是怎样支撑 StackOverflow 的？](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/how-stackoverflow-works.md)
 18. [图片服务架构演进（孔凡勇）](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/picture-server.md)
 19. [最佳日志实践（王健）](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/logging.md)
-20. 
+20. [每个程序员都应该了解的内存知识](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/memory.md) 
+21. [每个程序员都应该了解的CPU缓存知识](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/cpu-cache.md) 
+22. [每个程序员都应该了解的虚拟内存知识](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/virtual-memory.md) 
