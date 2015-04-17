@@ -76,9 +76,6 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [Linux From Scratch systemd 中文翻译](https://github.com/ryanzz/LFS-systemd-zh_CN)
 * [55分钟学会正则表达式](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/30-minutes-to-learn-regex.md)
-
-
-
 * [每个Linux用户都应该知道的命令行技巧](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/use-linux.md)
 * [每个程序员都应该了解的内存知识](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/memory.md) 
 * [每个程序员都应该了解的CPU缓存知识](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/cpu-cache.md) 
@@ -234,6 +231,7 @@
 ### SED
 
 * [sed教程](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/sed.md)
+
 ------------------------
 
 ### Java
@@ -414,11 +412,13 @@
 
 * [一份其实很短的 LaTeX 入门文档](http://liam0205.me/2014/09/08/latex-introduction/)
 * [一份不太简短的 LATEX 2ε 介绍](http://www.mohu.org/info/lshort-cn.pdf) （PDF版）
+
 -----------------
 
 ### LISP
 
 * [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
+
 -----------------
 
 ### Lua
