@@ -251,22 +251,29 @@
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [JVM必备指南](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/jvm.md)
 * [Java入门教程](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/java-string.md)
-
+* [javarevisited博客](http://javarevisited.blogspot.com/)
+* [journaldev教程](http://www.journaldev.com/)
 -------------------------
 
 ### Android
 
+* [开发工具下载](http://www.androiddevtools.cn/)
+* [CodePath Android教程](http://guides.codepath.com/android/Home)
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 * Google Material Design 正體中文版 ([译本一](http://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
+* [Android构建工具](http://tools.android.com/tech-docs/new-build-system)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Android内存优化(上)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/android-memory-prof1.md)
 * [Android内存优化(中)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/android-memory-prof2.md)
 * [Android内存优化(全)](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/android-memory-prof3.md)
 * [查找代码的一个网站](http://www.codota.com/)
 * [Android开源库汇总](https://android-arsenal.com/free)
-
+* [查找示例代码的网站](http://www.codota.com/)
+* [Android SDK使用教程](http://tutsplus.com/)
+* [Android最佳实践](https://github.com/futurice/android-best-practices)
+* [Android Material icons](http://google.github.io/material-design-icons/#icons-for-android)
 ------------------------
 
 ### C/C++
