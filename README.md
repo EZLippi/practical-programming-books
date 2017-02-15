@@ -5,7 +5,7 @@
 
 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 
-* [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html#comments)
+* [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
 ## 目录
 
@@ -288,6 +288,7 @@
 ### SED
 
 * [sed教程](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/sed.md)
+* [SED简明教程](http://www.ezlippi.com/blog/2017/02/sed-introduction.html)
 
 ------------------------
 
