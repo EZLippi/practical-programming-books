@@ -90,7 +90,9 @@
 ----------------------------------
 
 ### 函数式编程
+
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+
 ----------------------------------
 
 ### web服务器
