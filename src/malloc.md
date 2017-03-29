@@ -69,7 +69,7 @@
 <p>在现代操作系统中，不论是虚拟内存还是物理内存，都不是以字节为单位进行管理的，而是以页（Page）为单位。一个内存页是一段固定大小的连续内存地址的总称，具体到Linux中，典型的内存页大小为4096Byte（4K）。</p>
 <p>所以内存地址可以分为页号和页内偏移量。下面以64位机器，4G物理内存，4K页大小为例，虚拟内存地址和物理内存地址的组成如下：</p>
 <p><img src="http://blog-codinglabs-org.qiniudn.com/image/a-malloc-tutorial-01.png" alt="内存地址构成"></p>
-<p>上面是虚拟内存地址，下面是物理内存地址。由于页大小都是4K，所以页内便宜都是用低12位表示，而剩下的高地址表示页号。</p>
+<p>上面是虚拟内存地址，下面是物理内存地址。由于页大小都是4K，所以页内偏移都是用低12位表示，而剩下的高地址表示页号。</p>
 <p>MMU映射单位并不是字节，而是页，这个映射通过查一个常驻内存的数据结构<a href="http://en.wikipedia.org/wiki/Page_table">页表</a>来实现。现在计算机具体的内存地址映射比较复杂，为了加快速度会引入一系列缓存和优化，例如<a href="http://en.wikipedia.org/wiki/Translation_lookaside_buffer">TLB</a>等机制。下面给出一个经过简化的内存地址翻译示意图，虽然经过了简化，但是基本原理与现代计算机真实的情况的一致的。</p>
 <p><img src="http://blog-codinglabs-org.qiniudn.com/image/a-malloc-tutorial-02.png" alt="内存地址翻译"></p>
 <h3 id="213-内存页与磁盘页">2.1.3 内存页与磁盘页</h3>
