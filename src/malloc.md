@@ -189,7 +189,7 @@ t_block extend_heap(t_block last, size_t s) {
 </pre>
 <h3 id="324-分裂block">3.2.4 分裂block</h3>
 <p>First fit有一个比较致命的缺点，就是可能会让很小的size占据很大的一块block，此时，为了提高payload，应该在剩余数据区足够大的情况下，将其分裂为一个新的block，示意如下：</p>
-<p><img src="http://blog-codinglabs-org.qiniudn.com/image/a-malloc-tutorial-07.png" alt="分裂block"></p>
+<p><img src="http://blog-codinglabs-org.qiniudn.com/image/a--tutorial-07.png" alt="分裂block"></p>
 <p>实现代码：</p>
 <pre class="prettyprint linenums lang-c">void split_block(t_block b, size_t s) {
     t_block new;
