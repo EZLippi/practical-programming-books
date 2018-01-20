@@ -416,6 +416,7 @@
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 * [Haskell趣学指南](http://fleurer-lee.com/lyah/)
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)(质量不错的一个网书)
 
 --------------------
 
@@ -694,6 +695,8 @@
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)(Twitter的Scala最佳实践的中文翻译)
 * [Scala指南](http://zh.scala-tour.com/)
+* [Scala-for-the-impatient-2nd](https://www.amazon.com/Scala-Impatient-2nd-Cay-Horstmann/dp/0134540565)(自行购买或pdf)
+* [Scala|写点什么](http://hongjiang.info/scala/)(国人的一个很好的关于Scala的博客)
 
 -----------------
 
