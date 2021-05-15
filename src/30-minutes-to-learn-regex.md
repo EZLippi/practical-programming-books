@@ -498,7 +498,7 @@
 <p>我希望现在你能明白，我为什么让你特别注意反斜杠。</p>
 <h3></h3>
 <h3>动态正则表达式</h3>
-<p>当你动态创建一个正则表达式的时候请特别小心。如果你使用的字符串不够完善的花，可能会有意想不到的匹配结果。这可能导致语法错误，更糟糕的是，你的正则表达式语法正确，但是结果无法预料。</p>
+<p>当你动态创建一个正则表达式的时候请特别小心。如果你使用的字符串不够完善的话，可能会有意想不到的匹配结果。这可能导致语法错误，更糟糕的是，你的正则表达式语法正确，但是结果无法预料。</p>
 <p>错误的Java代码：</p>
 <p>String sep = System.getProperty(&#8220;file.separator&#8221;); String[] directories = filePath.split(sep);</p>
 <p><span style="font-family: Tahoma;">Bug:</span><span style="color: #0000ff;">String.split() </span><span style="font-family: Tahoma; font-size: medium;">认为sep是一个正则表达式。但是，在Windows中，Sep是表示匹配一个反斜杠，也就是与正则表达式&#8221;\\&#8221;相同。这个正则表达式是正确的，但是会返回一个异常：</span><code>PatternSyntaxException</code>.</p>
