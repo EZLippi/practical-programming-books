@@ -368,6 +368,7 @@
 * [C语言全局变量那些事儿](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/c-globle-variable.md)
 * [如何实现一个malloc](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/malloc.md)
 * [在线编程和调试的网站](http://ideone.com/)
+* [现代C++教程](https://changkun.de/modern-cpp/)
 
 ------------------------------------
 
