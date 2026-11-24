@@ -254,6 +254,7 @@
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+* [初级前端交付验收练习：旧请求覆盖、失败恢复与项目交接](https://fermatmind.com/zh/articles/junior-frontend-prove-delivery-with-ai)（含可运行 JavaScript 示例与验收卡）
 
 -----------------------------------
 
